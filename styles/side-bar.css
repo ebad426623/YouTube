@@ -1,0 +1,16 @@
+.side-bar{
+    position: fixed;
+    top: 55px;
+    left: 0;
+    bottom: 0;
+    background-color: white;
+    width: 72px;
+
+    border-right-width: 0px;
+    display: flex;
+}
+
+.home-icon, .explore-icon, .subscriptions-icon, .originals-icon, .youtube-music-icon, .library-icon{
+    height: 24px;
+}
+
